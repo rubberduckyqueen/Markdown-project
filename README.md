@@ -10,14 +10,14 @@ A National Security and Computer Science student at Utah Valley University looki
 
 ### Emerging Tech Policy Lab  
 Student Analyst, Sr Student Analyst, Team Lead
-* August 2022 - ongoing * 
+August 2022 - ongoing 
 
 + Working with other student analysts to collect, interpret, and write reports on data
 +  Delivering reports to various public, private, and government entities for the sake of increasing cyber preparedness and growing markets for emerging technologies
 
 ### Strawbridge Studios Inc.
 Customer Service Research Rep, Order Entry Specialist, Quality Control Specialist
-* April - August 2021 *
+April - August 2021
 
 + Collaborated with a team to create a new Customer Service department specializing in answering difficult questions
 +  Wrote the training document for new hires in the Customer Service Department
@@ -26,7 +26,7 @@ Customer Service Research Rep, Order Entry Specialist, Quality Control Specialis
 
 ### Utah Valley University
 Bachelor of Science in National Security Studies, Bachelor of Science in Computer Science
-* Expected Graduation May 2024 *
+Expected Graduation May 2024
 
 + Certificate of Proficiency in Information Technology
 + Managing Editor for the National Security Journal
@@ -37,7 +37,7 @@ Bachelor of Science in National Security Studies, Bachelor of Science in Compute
 
 
 Assiociate of Science in University Studies
-* May 2022 *
+May 2022
 
 ## Skills:
 
